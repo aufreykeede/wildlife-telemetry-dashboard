@@ -1,0 +1,4 @@
+wildlife.db
+__pycache__/
+*.pyc
+.venv/
